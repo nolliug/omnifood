@@ -1,0 +1,14 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    background-image: url("images/image_background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+}
+.logo
+{
+height: 100px;
+float: left;
+}
